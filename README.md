@@ -16,7 +16,7 @@
     - Students that pass either Android or Django can proceed to take Professional Development.
 
 
- [Exploratory Data Analysis Solution]()
+ [Exploratory Data Analysis Solution](https://nbviewer.org/github/HarunMbaabu/module-retention-analytics/blob/main/Main%20File%20-%20Exploratory%20Data%20Analysis%20.ipynb)
 
 
 #### **Question 2. Determine the module-to-module retention rates for each of the modules. (e.g. Intro to Software Development -> Angular : x%).**  
