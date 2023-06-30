@@ -2,6 +2,7 @@
 
 #### **Question 1. Clean up the provided data with the following assumptions:**
 
+
     - Students that have none of the above metrics stated is presumed to have dropped out of the module and should not count towards the final enrolment number for that module.
 
     -  Students that scored below 50% in a module and are not shown to be enrolled in one of the next modules are presumed to have failed and should be excluded when calculating module-to-module retention (See Q2.)
@@ -14,18 +15,23 @@
 
     - Students that pass either Android or Django can proceed to take Professional Development.
 
- [Exploratory Data Analysis]()
+
+ [Exploratory Data Analysis Solution]()
 
 
 #### **Question 2. Determine the module-to-module retention rates for each of the modules. (e.g. Intro to Software Development -> Angular : x%).**  
-[Module-to-Module Retention Rates]()
+[Module-to-Module Retention Rates Solution]()
 
 
 #### **Question 3. Which of the metrics above is most correlated to the module-to-module retention rate? List them in order of most to least correlated. (Include any charts and tables necessary to explain your answer.)**
-[Module Metrics Correlation]()
+[Module Metrics Correlation Solution ]()
 
 
 #### **Question 4. If Moringa had to pick 2 metrics out of the above listed ones to help improve module-to-module retention, which should we pick and why (Include any charts and tables necessary to explain your answer.)**
+
+[Two Metrics To Help Improve Rentention Solution]()
+
+
 
 
 
@@ -33,10 +39,10 @@
 
 To better predict module-to-module retention, I think it would be important to measure the following additional metrics, metrics can complement the existing ones and provide a more comprehensive understanding of students' engagement, progress, and support systems within the program. 
 
- Peer-to-Peer Interaction: Monitoring the extent of peer interaction and collaboration among students can be valuable. Metrics such as forum participation, group project involvement, or peer feedback can indicate a sense of community and support within the program. Students who actively engage with their peers are more likely to have a positive learning experience and continue with the program.
-Self-Assessment and Reflection: Including metrics that capture students' self-assessment and reflection on their learning journey can provide valuable insights into their motivation, self-awareness, and growth mindset. Metrics like self-evaluation surveys, goal-setting activities, and reflective journals can help identify students' perceptions of their progress and areas for improvement.
-Quiz and Assessment Scores: Regular quizzes and assessments help gauge students' comprehension and retention of the course content. Tracking their performance in these assessments can provide early indicators of their understanding and progress. Low scores might suggest areas of difficulty where additional support or intervention could be beneficial.
-Learning Progression: Keeping track of students' progression through the course material and modules can give a sense of their pace and consistency. Metrics such as module completion rates, time taken to complete each module, and progression milestones can help identify students who might be falling behind or struggling to keep up with the program's demands. 
+- **Peer-to-Peer Interaction:** Monitoring the extent of peer interaction and collaboration among students can be valuable. Metrics such as forum participation, group project involvement, or peer feedback can indicate a sense of community and support within the program. Students who actively engage with their peers are more likely to have a positive learning experience and continue with the program.
+- **Self-Assessment and Reflection:** Including metrics that capture students' self-assessment and reflection on their learning journey can provide valuable insights into their motivation, self-awareness, and growth mindset. Metrics like self-evaluation surveys, goal-setting activities, and reflective journals can help identify students' perceptions of their progress and areas for improvement.
+- **Questions and Assessment Scores:** Regular quizzes and assessments help gauge students' comprehension and retention of the course content. Tracking their performance in these assessments can provide early indicators of their understanding and progress. Low scores might suggest areas of difficulty where additional support or intervention could be beneficial.
+- **Learning Progression:** Keeping track of students' progression through the course material and modules can give a sense of their pace and consistency. Metrics such as module completion rates, time taken to complete each module, and progression milestones can help identify students who might be falling behind or struggling to keep up with the program's demands. 
 
 **My Conclusion:**
 By analyzing these metrics alongside the existing ones, we can gain deeper insights into the factors influencing module-to-module retention and make data-driven decisions to improve the overall student experience and success rate.
