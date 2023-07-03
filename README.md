@@ -16,20 +16,20 @@
     - Students that pass either Android or Django can proceed to take Professional Development.
 
 
- [Exploratory Data Analysis Solution](https://nbviewer.org/github/HarunMbaabu/module-retention-analytics/blob/main/Main%20File%20-%20Exploratory%20Data%20Analysis%20.ipynb)
+ [Exploratory Data Analysis Solution](https://github.com/HarunMbaabu/module-retention-analytics/blob/main/Main%20File%20-%20Exploratory%20Data%20Analysis%20.ipynb)
 
 
 #### **Question 2. Determine the module-to-module retention rates for each of the modules. (e.g. Intro to Software Development -> Angular : x%).**  
-[Module-to-Module Retention Rates Solution]()
+[Module-to-Module Retention Rates Solution](https://github.com/HarunMbaabu/module-retention-analytics/blob/main/Module-to-Module%20Retention%20Rates.ipynb)
 
 
 #### **Question 3. Which of the metrics above is most correlated to the module-to-module retention rate? List them in order of most to least correlated. (Include any charts and tables necessary to explain your answer.)**
-[Module Metrics Correlation Solution ]()
+[Module Metrics Correlation Solution ](https://github.com/HarunMbaabu/module-retention-analytics/blob/main/Module%20Metrics%20Correlation.ipynb)
 
 
 #### **Question 4. If Moringa had to pick 2 metrics out of the above listed ones to help improve module-to-module retention, which should we pick and why (Include any charts and tables necessary to explain your answer.)**
 
-[Two Metrics To Help Improve Rentention Solution]()
+[Two Metrics To Help Improve Rentention Solution](https://github.com/HarunMbaabu/module-retention-analytics/blob/main/Two%20Metrics%20To%20Help%20Improve%20Retention%20Solution.ipynb)
 
 
 
